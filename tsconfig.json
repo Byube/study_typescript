@@ -1,9 +1,9 @@
 {
     "compilerOptions": {
         "strict": true,
-        "target": "ES5",
+        "target": "ES6",
         "module": "CommonJS",
-        "alwaysStrict": true, 
+        "alwaysStrict": true,
         "noImplicitAny": true,
         "noImplicitThis": true,
         "sourceMap": true,
